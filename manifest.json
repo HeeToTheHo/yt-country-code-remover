@@ -1,7 +1,7 @@
 {
     "name": "Youtube Country ID Remover",
     "version": "1.0",
-    "description": "aka anti-dox-gooby extension",
+    "description": "aka anti-dox extension",
     "manifest_version": 2,
     "permissions": [
         "declarativeContent"
